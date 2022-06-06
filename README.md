@@ -21,7 +21,8 @@
 
 **Как запустить**  
 • Проверить наличие jdk 11 или новее  
-_java -v_  
+_java -version_  
+-- при отсутствии - установить в соответствии с текущей ОС
 • Скопировать репозиторий  
 _git clone https://github.com/afilyukov/CheckCurrency  
 cd CheckCurrency_  
